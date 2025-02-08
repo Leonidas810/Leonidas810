@@ -8,7 +8,4 @@ Soy estudiante de **Ingeniería en Sistemas Inteligentes** en la **Universidad A
 - **Back-end:** Node.js, Express, MongoDB, MySQL  
 - **Otros:** Git, Figma  
 
-## 📊 Estadísticas  
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
-
 🌱 Siempre aprendiendo y creando proyectos. ¡Conectemos!

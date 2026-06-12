@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Leonardo López Pérez  
+# 👋 ¡Hola! Soy Leo  
 
-Soy estudiante de **Ingeniería en Sistemas Inteligentes** en la **Universidad Autónoma de San Luis Potosí**. Me apasiona el desarrollo web, la optimización de algoritmos y la ciberseguridad.  
+**Ingeniero en Sistemas Inteligentes** Me apasiona el desarrollo web, la optimización de algoritmos y la ciberseguridad.  
 
 ## 🚀 Tecnologías y habilidades  
 - **Lenguajes:** JavaScript, C, C++, SQL  
